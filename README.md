@@ -5,13 +5,13 @@
 
 <img src="33.PNG" alt="exemplo imagem">
 
-> converso de moedas feito em javascript 
+> conversor de moedas feito em javascript 
 ### Tecnologias Utilizadas No Projeto
 
-Converso De Moedas Converte Real Para Bitcoin Dolar É Euro
+Conversor De Moedas Converte Real Para Bitcoin Dolar É Euro
 
 - [x] HTML 
 - [x] CSS
 - [x] JAVASCRIPT
 
-Converso Simples O Usuario Digita o Valor Em Real Ele Converte Para Dolar Euro ou Bitcoin
+Conversor Simples O Usuario Digita o Valor Em Real Ele Converte Para Dolar Euro ou Bitcoin
